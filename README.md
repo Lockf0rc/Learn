@@ -3,7 +3,7 @@
 	Markups: "using Emmlet syntax" http://docs.emmet.io/cheat-sheet/
 
 #Founation 
- ##VISIBILITY CLASSES
+##VISIBILITY CLASSES
 ```sass
  @import "foundation/components/visibility";
 ```
