@@ -9,8 +9,8 @@ Founation
     coloms
     navigators
      VISIBILITY CLASSES
-  ==========================
-  //sass @import "foundation/components/visibility";
+==========================
+
   SHOW visibility classes to show certain strings of text based on the device on which users view a page.
   eg.
   div.panel+span.show-for-small-only+.show-for-medium-up
