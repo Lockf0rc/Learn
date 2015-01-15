@@ -13,9 +13,9 @@ Markup:
 div.panel+span.show-for-small-only+.show-for-medium-up
 ```	
 Pattern: .{action}-for-{sizes}-{quantity}
-{action}:show|hide
-{sizes}: small|medium|large|xlarge|xxlarge
-{quantity}: only|up
+	{action}:show|hide
+	{sizes}: small|medium|large|xlarge|xxlarge
+	{quantity}: only|up
 ####Orientation Detection
 Pattern:.show-for-{orintation}
 {oriantation}:landscape|portrait
